@@ -1,4 +1,4 @@
-### Hello, I am Jeronimo.
+### Jeronimo.
 
 <div>
   <a href="https://github.com/jeronimopenha">
